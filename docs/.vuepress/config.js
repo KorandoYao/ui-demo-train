@@ -4,8 +4,8 @@ module.exports = {
   themeConfig: {
     nav: [
       {text: 'Home', link: '/'},
-      {text: 'Github', link: 'https://www.npmjs.com/package/ui-demo-train'},
-      {text: 'Npm', link: 'https://github.com/KorandoYao/ui-demo-train'}
+      {text: 'Github', link: 'https://github.com/KorandoYao/ui-demo-train'},
+      {text: 'Npm', link: 'https://www.npmjs.com/package/ui-demo-train'}
     ],
     sidebar: [
       '/',
