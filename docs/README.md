@@ -17,6 +17,6 @@ Vue.use(UI);
 
 // 按需引入
 import 'ui-demo-train/dist/css/demo.css'
-import Button from 'ui-demo-train'
-Vue.use(Button);
+import Demo from 'ui-demo-train'
+Vue.use(Demo);
 ```
